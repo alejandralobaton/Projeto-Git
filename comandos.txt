@@ -1,0 +1,11 @@
+git v
+git log
+git status 
+git config user name
+git config 
+git push
+git pull
+git ls
+git clone
+git help
+git cd..
